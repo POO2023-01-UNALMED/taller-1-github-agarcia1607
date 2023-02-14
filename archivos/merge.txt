@@ -1,3 +1,5 @@
 Andres felipe garcia orrego
 22
 Entender el paradigma de los objetos y mejorar cada dia en mis habilidades como programador
+Puede hacerse debido a que la carpeta archivos ya no esta vacia
+Puede generar conflictos con las diferentes versiones del trabajo
